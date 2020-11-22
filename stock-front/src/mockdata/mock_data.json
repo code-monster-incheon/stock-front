@@ -1,202 +1,3782 @@
-[
-	{
-		"category": "환경",
-		"datas": [
-			{
-				"name": "1종목",
-				"change_ratio": "-4.388326920104257",
-				"market_cap": "76187"
-			},
-			{
-				"name": "1종목",
-				"change_ratio": "-3.256054073432393",
-				"market_cap": "33419"
-			},
-			{
-				"name": "1종목",
-				"change_ratio": "1.8109367389943714",
-				"market_cap": "54321"
-			},
-			{
-				"name": "1종목",
-				"change_ratio": "1.6319424498066448",
-				"market_cap": "33843"
-			},
-			{
-				"name": "1종목",
-				"change_ratio": "3.143763761598139",
-				"market_cap": "11556"
-			},
-			{
-				"name": "1종목",
-				"change_ratio": "-1.87142656198783",
-				"market_cap": "67928"
-			},
-			{
-				"name": "1종목",
-				"change_ratio": "-3.4268822254839293",
-				"market_cap": "97260"
-			},
-			{
-				"name": "1종목",
-				"change_ratio": "0.25831858695622145",
-				"market_cap": "48692"
-			},
-			{
-				"name": "1종목",
-				"change_ratio": "2.7766957747897303",
-				"market_cap": "49239"
-			}
-		]
-	},
-	{
-		"category": "에너지",
-		"datas": [
-			{
-				"name": "2종목",
-				"change_ratio": "-4.69844848557144",
-				"market_cap": "21291"
-			},
-			{
-				"name": "2종목",
-				"change_ratio": "3.6148368460194042",
-				"market_cap": "22186"
-			},
-			{
-				"name": "2종목",
-				"change_ratio": "-3.4195711640329463",
-				"market_cap": "76863"
-			},
-			{
-				"name": "2종목",
-				"change_ratio": "-2.142609778855795",
-				"market_cap": "96766"
-			},
-			{
-				"name": "2종목",
-				"change_ratio": "0.0001969869461992957",
-				"market_cap": "88492"
-			},
-			{
-				"name": "2종목",
-				"change_ratio": "1.1620974503772041",
-				"market_cap": "52825"
-			},
-			{
-				"name": "2종목",
-				"change_ratio": "-2.40634638405383",
-				"market_cap": "12418"
-			},
-			{
-				"name": "2종목",
-				"change_ratio": "1.9861673538960662",
-				"market_cap": "61263"
-			},
-			{
-				"name": "2종목",
-				"change_ratio": "0.462950048180617",
-				"market_cap": "62833"
-			}
-		]
-	},
-	{
-		"category": "화학",
-		"datas": [
-			{
-				"name": "3종목",
-				"change_ratio": "-1.800300502602179",
-				"market_cap": "5910"
-			},
-			{
-				"name": "3종목",
-				"change_ratio": "-0.3586576501878209",
-				"market_cap": "53667"
-			},
-			{
-				"name": "3종목",
-				"change_ratio": "-2.2991112126557867",
-				"market_cap": "22536"
-			},
-			{
-				"name": "3종목",
-				"change_ratio": "-3.063292144774419",
-				"market_cap": "36897"
-			},
-			{
-				"name": "3종목",
-				"change_ratio": "-4.872893781256876",
-				"market_cap": "73094"
-			},
-			{
-				"name": "3종목",
-				"change_ratio": "3.9259008917464406",
-				"market_cap": "70998"
-			},
-			{
-				"name": "3종목",
-				"change_ratio": "2.276590964875864",
-				"market_cap": "46513"
-			},
-			{
-				"name": "3종목",
-				"change_ratio": "1.6634552541853047",
-				"market_cap": "59313"
-			},
-			{
-				"name": "3종목",
-				"change_ratio": "4.216592119548142",
-				"market_cap": "82791"
-			}
-		]
-	},
-	{
-		"category": "건설",
-		"datas": [
-			{
-				"name": "4종목",
-				"change_ratio": "2.9068433605699173",
-				"market_cap": "67151"
-			},
-			{
-				"name": "4종목",
-				"change_ratio": "-0.20246135385304243",
-				"market_cap": "91289"
-			},
-			{
-				"name": "4종목",
-				"change_ratio": "4.48481247611163",
-				"market_cap": "43132"
-			},
-			{
-				"name": "4종목",
-				"change_ratio": "-3.019420289936703",
-				"market_cap": "75410"
-			},
-			{
-				"name": "4종목",
-				"change_ratio": "0.054610310375366566",
-				"market_cap": "45143"
-			},
-			{
-				"name": "4종목",
-				"change_ratio": "-0.5436837595677506",
-				"market_cap": "71252"
-			},
-			{
-				"name": "4종목",
-				"change_ratio": "0.12010607577928933",
-				"market_cap": "12372"
-			},
-			{
-				"name": "4종목",
-				"change_ratio": "-4.212022383814715",
-				"market_cap": "18834"
-			},
-			{
-				"name": "4종목",
-				"change_ratio": "-4.2666206189131355",
-				"market_cap": "84421"
-			}
-		]
-	}
-]
+{
+  "제4이동통신": [
+    {
+      "name": "세종텔레콤",
+      "changeRatio": "+18.16%"
+    },
+    {
+      "name": "콤텍시스템",
+      "changeRatio": "+6.43%"
+    },
+    {
+      "name": "쏠리드",
+      "changeRatio": "+4.15%"
+    },
+    {
+      "name": "CS",
+      "changeRatio": "+1.00%"
+    },
+    {
+      "name": "릭스솔루션",
+      "changeRatio": "-1.88%"
+    }
+  ],
+  "코로나19(음압병실/음압구급차)": [
+    {
+      "name": "GH신소재",
+      "changeRatio": "+5.69%"
+    },
+    {
+      "name": "우정바이오",
+      "changeRatio": "+4.31%"
+    },
+    {
+      "name": "에스와이",
+      "changeRatio": "+2.48%"
+    },
+    {
+      "name": "원방테크",
+      "changeRatio": "+0.46%"
+    },
+    {
+      "name": "엔브이에이치코리아",
+      "changeRatio": "+0.34%"
+    },
+    {
+      "name": "오텍",
+      "changeRatio": "+0.33%"
+    },
+    {
+      "name": "코오롱글로벌",
+      "changeRatio": "+0.25%"
+    },
+    {
+      "name": "신성이엔지",
+      "changeRatio": "-0.65%"
+    }
+  ],
+  "코로나19(진단/치료제/백신 개발 등)": [
+    {
+      "name": "드림텍",
+      "changeRatio": "+29.78%"
+    },
+    {
+      "name": "종근당",
+      "changeRatio": "+17.70%"
+    },
+    {
+      "name": "필로시스헬스케어",
+      "changeRatio": "+11.23%"
+    },
+    {
+      "name": "네이처셀",
+      "changeRatio": "+8.81%"
+    },
+    {
+      "name": "비씨월드제약",
+      "changeRatio": "+7.93%"
+    },
+    {
+      "name": "엑세스바이오",
+      "changeRatio": "+5.96%"
+    },
+    {
+      "name": "천랩",
+      "changeRatio": "+5.81%"
+    },
+    {
+      "name": "레고켐바이오",
+      "changeRatio": "+5.73%"
+    },
+    {
+      "name": "인트론바이오",
+      "changeRatio": "+5.71%"
+    },
+    {
+      "name": "앤디포스",
+      "changeRatio": "+5.20%"
+    },
+    {
+      "name": "SV인베스트먼트",
+      "changeRatio": "+4.36%"
+    },
+    {
+      "name": "소마젠(Reg.S)",
+      "changeRatio": "+4.17%"
+    },
+    {
+      "name": "크리스탈지노믹스",
+      "changeRatio": "+3.41%"
+    },
+    {
+      "name": "디엔에이링크",
+      "changeRatio": "+3.37%"
+    },
+    {
+      "name": "유바이오로직스",
+      "changeRatio": "+3.25%"
+    },
+    {
+      "name": "바이오니아",
+      "changeRatio": "+3.23%"
+    },
+    {
+      "name": "젠큐릭스",
+      "changeRatio": "+3.09%"
+    },
+    {
+      "name": "EDGC",
+      "changeRatio": "+3.06%"
+    },
+    {
+      "name": "제놀루션",
+      "changeRatio": "+2.93%"
+    },
+    {
+      "name": "일양약품",
+      "changeRatio": "+2.92%"
+    },
+    {
+      "name": "우리들제약",
+      "changeRatio": "+2.73%"
+    },
+    {
+      "name": "대웅",
+      "changeRatio": "+2.65%"
+    },
+    {
+      "name": "녹십자엠에스",
+      "changeRatio": "+2.48%"
+    },
+    {
+      "name": "바이오스마트",
+      "changeRatio": "+2.37%"
+    },
+    {
+      "name": "코미팜",
+      "changeRatio": "+2.24%"
+    },
+    {
+      "name": "강스템바이오텍",
+      "changeRatio": "+2.23%"
+    },
+    {
+      "name": "부광약품",
+      "changeRatio": "+1.84%"
+    },
+    {
+      "name": "씨티씨바이오",
+      "changeRatio": "+1.83%"
+    },
+    {
+      "name": "메디콕스",
+      "changeRatio": "+1.72%"
+    },
+    {
+      "name": "쎌마테라퓨틱스",
+      "changeRatio": "+1.69%"
+    },
+    {
+      "name": "JW중외제약",
+      "changeRatio": "+1.67%"
+    },
+    {
+      "name": "마크로젠",
+      "changeRatio": "+1.43%"
+    },
+    {
+      "name": "미코",
+      "changeRatio": "+1.35%"
+    },
+    {
+      "name": "씨젠",
+      "changeRatio": "+1.15%"
+    },
+    {
+      "name": "옵티팜",
+      "changeRatio": "+1.13%"
+    },
+    {
+      "name": "얼라인드",
+      "changeRatio": "+0.93%"
+    },
+    {
+      "name": "셀트리온",
+      "changeRatio": "+0.85%"
+    },
+    {
+      "name": "랩지노믹스",
+      "changeRatio": "+0.85%"
+    },
+    {
+      "name": "앱클론",
+      "changeRatio": "+0.82%"
+    },
+    {
+      "name": "뉴지랩",
+      "changeRatio": "+0.78%"
+    },
+    {
+      "name": "시너지이노베이션",
+      "changeRatio": "+0.78%"
+    },
+    {
+      "name": "대웅제약",
+      "changeRatio": "+0.63%"
+    },
+    {
+      "name": "한국비엔씨",
+      "changeRatio": "+0.60%"
+    },
+    {
+      "name": "진원생명과학",
+      "changeRatio": "+0.56%"
+    },
+    {
+      "name": "엔지켐생명과학",
+      "changeRatio": "+0.39%"
+    },
+    {
+      "name": "수젠텍",
+      "changeRatio": "+0.38%"
+    },
+    {
+      "name": "셀리드",
+      "changeRatio": "+0.34%"
+    },
+    {
+      "name": "휴온스",
+      "changeRatio": "+0.33%"
+    },
+    {
+      "name": "진매트릭스",
+      "changeRatio": "+0.32%"
+    },
+    {
+      "name": "우리들휴브레인",
+      "changeRatio": "+0.15%"
+    },
+    {
+      "name": "카이노스메드",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "신풍제약",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "미코바이오메드",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "유틸렉스",
+      "changeRatio": "-0.16%"
+    },
+    {
+      "name": "바디텍메드",
+      "changeRatio": "-0.72%"
+    },
+    {
+      "name": "피씨엘",
+      "changeRatio": "-0.74%"
+    },
+    {
+      "name": "지노믹트리",
+      "changeRatio": "-1.16%"
+    },
+    {
+      "name": "펩트론",
+      "changeRatio": "-1.22%"
+    },
+    {
+      "name": "오상자이엘",
+      "changeRatio": "-1.33%"
+    },
+    {
+      "name": "셀리버리",
+      "changeRatio": "-1.73%"
+    },
+    {
+      "name": "녹십자",
+      "changeRatio": "-1.80%"
+    },
+    {
+      "name": "나노엔텍",
+      "changeRatio": "-2.12%"
+    },
+    {
+      "name": "바이오톡스텍",
+      "changeRatio": "-2.18%"
+    },
+    {
+      "name": "휴마시스",
+      "changeRatio": "-2.36%"
+    },
+    {
+      "name": "제일약품",
+      "changeRatio": "-2.58%"
+    },
+    {
+      "name": "제넥신",
+      "changeRatio": "-2.80%"
+    },
+    {
+      "name": "마이크로디지탈",
+      "changeRatio": "-2.89%"
+    },
+    {
+      "name": "유나이티드제약",
+      "changeRatio": "-4.33%"
+    },
+    {
+      "name": "파미셀",
+      "changeRatio": "-4.82%"
+    }
+  ],
+  "통신장비": [
+    {
+      "name": "유비쿼스",
+      "changeRatio": "+15.59%"
+    },
+    {
+      "name": "서진시스템",
+      "changeRatio": "+7.12%"
+    },
+    {
+      "name": "다산네트웍스",
+      "changeRatio": "+6.88%"
+    },
+    {
+      "name": "루멘스",
+      "changeRatio": "+6.24%"
+    },
+    {
+      "name": "에치에프알",
+      "changeRatio": "+5.37%"
+    },
+    {
+      "name": "케이엠더블유",
+      "changeRatio": "+5.15%"
+    },
+    {
+      "name": "웨이브일렉트로",
+      "changeRatio": "+4.93%"
+    },
+    {
+      "name": "메탈라이프",
+      "changeRatio": "+4.35%"
+    },
+    {
+      "name": "쏠리드",
+      "changeRatio": "+4.15%"
+    },
+    {
+      "name": "기가레인",
+      "changeRatio": "+3.99%"
+    },
+    {
+      "name": "RFHIC",
+      "changeRatio": "+3.90%"
+    },
+    {
+      "name": "파이오링크",
+      "changeRatio": "+3.86%"
+    },
+    {
+      "name": "오이솔루션",
+      "changeRatio": "+3.80%"
+    },
+    {
+      "name": "이노인스트루먼트",
+      "changeRatio": "+3.49%"
+    },
+    {
+      "name": "에이스테크",
+      "changeRatio": "+3.40%"
+    },
+    {
+      "name": "텔콘RF제약",
+      "changeRatio": "+2.81%"
+    },
+    {
+      "name": "이노와이어리스",
+      "changeRatio": "+2.69%"
+    },
+    {
+      "name": "기산텔레콤",
+      "changeRatio": "+2.53%"
+    },
+    {
+      "name": "전파기지국",
+      "changeRatio": "+2.48%"
+    },
+    {
+      "name": "에프알텍",
+      "changeRatio": "+1.92%"
+    },
+    {
+      "name": "머큐리",
+      "changeRatio": "+1.87%"
+    },
+    {
+      "name": "피피아이",
+      "changeRatio": "+1.57%"
+    },
+    {
+      "name": "인텔리안테크",
+      "changeRatio": "+1.48%"
+    },
+    {
+      "name": "코위버",
+      "changeRatio": "+1.15%"
+    },
+    {
+      "name": "우리넷",
+      "changeRatio": "+1.11%"
+    },
+    {
+      "name": "CS",
+      "changeRatio": "+1.00%"
+    },
+    {
+      "name": "알엔투테크놀로지",
+      "changeRatio": "+0.99%"
+    },
+    {
+      "name": "우리로",
+      "changeRatio": "+0.98%"
+    },
+    {
+      "name": "에스에이티",
+      "changeRatio": "+0.94%"
+    },
+    {
+      "name": "삼지전자",
+      "changeRatio": "+0.84%"
+    },
+    {
+      "name": "인포마크",
+      "changeRatio": "+0.82%"
+    },
+    {
+      "name": "AP위성",
+      "changeRatio": "+0.71%"
+    },
+    {
+      "name": "빛샘전자",
+      "changeRatio": "+0.35%"
+    },
+    {
+      "name": "텔레필드",
+      "changeRatio": "+0.15%"
+    },
+    {
+      "name": "스카이문스테크놀로지",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "감마누",
+      "changeRatio": "-0.33%"
+    },
+    {
+      "name": "핸디소프트",
+      "changeRatio": "-1.87%"
+    }
+  ],
+  "전선": [
+    {
+      "name": "대한전선",
+      "changeRatio": "+29.98%"
+    },
+    {
+      "name": "가온전선",
+      "changeRatio": "+7.66%"
+    },
+    {
+      "name": "대원전선",
+      "changeRatio": "+2.99%"
+    },
+    {
+      "name": "일진전기",
+      "changeRatio": "+0.63%"
+    },
+    {
+      "name": "LS",
+      "changeRatio": "-0.17%"
+    },
+    {
+      "name": "KBI메탈",
+      "changeRatio": "-2.98%"
+    }
+  ],
+  "바이오인식(생체인식)": [
+    {
+      "name": "드림텍",
+      "changeRatio": "+29.78%"
+    },
+    {
+      "name": "코렌",
+      "changeRatio": "+6.86%"
+    },
+    {
+      "name": "젬백스링크",
+      "changeRatio": "+5.06%"
+    },
+    {
+      "name": "유니퀘스트",
+      "changeRatio": "+4.67%"
+    },
+    {
+      "name": "멜파스",
+      "changeRatio": "+4.21%"
+    },
+    {
+      "name": "동운아나텍",
+      "changeRatio": "+4.06%"
+    },
+    {
+      "name": "유니온커뮤니티",
+      "changeRatio": "+1.97%"
+    },
+    {
+      "name": "슈프리마",
+      "changeRatio": "+1.61%"
+    },
+    {
+      "name": "슈프리마아이디",
+      "changeRatio": "+1.48%"
+    },
+    {
+      "name": "엠씨넥스",
+      "changeRatio": "+0.56%"
+    },
+    {
+      "name": "해성옵틱스",
+      "changeRatio": "+0.32%"
+    },
+    {
+      "name": "퍼스텍",
+      "changeRatio": "+0.23%"
+    },
+    {
+      "name": "크루셜텍",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "에프에스티",
+      "changeRatio": "-0.22%"
+    },
+    {
+      "name": "파워로직스",
+      "changeRatio": "-0.23%"
+    },
+    {
+      "name": "파트론",
+      "changeRatio": "-0.50%"
+    },
+    {
+      "name": "시큐브",
+      "changeRatio": "-0.62%"
+    },
+    {
+      "name": "드림시큐리티",
+      "changeRatio": "-1.18%"
+    },
+    {
+      "name": "삼본전자",
+      "changeRatio": "-1.35%"
+    },
+    {
+      "name": "라온시큐어",
+      "changeRatio": "-1.87%"
+    }
+  ],
+  "여행": [
+    {
+      "name": "참좋은여행",
+      "changeRatio": "+6.91%"
+    },
+    {
+      "name": "노랑풍선",
+      "changeRatio": "+4.22%"
+    },
+    {
+      "name": "모두투어",
+      "changeRatio": "+3.12%"
+    },
+    {
+      "name": "레드캡투어",
+      "changeRatio": "+2.44%"
+    },
+    {
+      "name": "하나투어",
+      "changeRatio": "+2.25%"
+    },
+    {
+      "name": "인터파크",
+      "changeRatio": "+1.13%"
+    },
+    {
+      "name": "롯데관광개발",
+      "changeRatio": "+0.64%"
+    },
+    {
+      "name": "세중",
+      "changeRatio": "+0.21%"
+    },
+    {
+      "name": "SM C&C",
+      "changeRatio": "-1.94%"
+    }
+  ],
+  "일자리(취업)": [
+    {
+      "name": "윌비스",
+      "changeRatio": "+4.60%"
+    },
+    {
+      "name": "메가엠디",
+      "changeRatio": "+3.26%"
+    },
+    {
+      "name": "TS인베스트먼트",
+      "changeRatio": "+2.21%"
+    },
+    {
+      "name": "에스코넥",
+      "changeRatio": "+1.64%"
+    },
+    {
+      "name": "사람인에이치알",
+      "changeRatio": "+0.78%"
+    },
+    {
+      "name": "DSC인베스트먼트",
+      "changeRatio": "-2.13%"
+    }
+  ],
+  "카지노": [
+    {
+      "name": "세미콘라이트",
+      "changeRatio": "+10.58%"
+    },
+    {
+      "name": "GKL",
+      "changeRatio": "+5.88%"
+    },
+    {
+      "name": "에이루트",
+      "changeRatio": "+2.65%"
+    },
+    {
+      "name": "강원랜드",
+      "changeRatio": "+1.99%"
+    },
+    {
+      "name": "코텍",
+      "changeRatio": "+0.66%"
+    },
+    {
+      "name": "롯데관광개발",
+      "changeRatio": "+0.64%"
+    },
+    {
+      "name": "파라다이스",
+      "changeRatio": "+0.33%"
+    },
+    {
+      "name": "토비스",
+      "changeRatio": "-1.03%"
+    }
+  ],
+  "2차전지(장비)": [
+    {
+      "name": "자비스",
+      "changeRatio": "+30.00%"
+    },
+    {
+      "name": "브이원텍",
+      "changeRatio": "+5.86%"
+    },
+    {
+      "name": "웰크론한텍",
+      "changeRatio": "+4.10%"
+    },
+    {
+      "name": "넥스트아이",
+      "changeRatio": "+3.86%"
+    },
+    {
+      "name": "명성티엔에스",
+      "changeRatio": "+3.38%"
+    },
+    {
+      "name": "나인테크",
+      "changeRatio": "+2.86%"
+    },
+    {
+      "name": "피엔티",
+      "changeRatio": "+1.75%"
+    },
+    {
+      "name": "이아이디",
+      "changeRatio": "+1.73%"
+    },
+    {
+      "name": "윈텍",
+      "changeRatio": "+1.38%"
+    },
+    {
+      "name": "코윈테크",
+      "changeRatio": "+1.20%"
+    },
+    {
+      "name": "이노메트리",
+      "changeRatio": "+0.78%"
+    },
+    {
+      "name": "필옵틱스",
+      "changeRatio": "+0.76%"
+    },
+    {
+      "name": "디에이테크놀로지",
+      "changeRatio": "+0.29%"
+    },
+    {
+      "name": "디아이티",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "에이프로",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "티에스아이",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "엠플러스",
+      "changeRatio": "-0.72%"
+    },
+    {
+      "name": "피앤이솔루션",
+      "changeRatio": "-1.17%"
+    },
+    {
+      "name": "대보마그네틱",
+      "changeRatio": "-1.27%"
+    },
+    {
+      "name": "디이엔티",
+      "changeRatio": "-1.33%"
+    },
+    {
+      "name": "탑엔지니어링",
+      "changeRatio": "-1.41%"
+    },
+    {
+      "name": "엔에스",
+      "changeRatio": "-1.44%"
+    },
+    {
+      "name": "씨아이에스",
+      "changeRatio": "-1.57%"
+    }
+  ],
+  "재택근무/스마트워크": [
+    {
+      "name": "알서포트",
+      "changeRatio": "+17.86%"
+    },
+    {
+      "name": "영림원소프트랩",
+      "changeRatio": "+5.96%"
+    },
+    {
+      "name": "링네트",
+      "changeRatio": "+4.99%"
+    },
+    {
+      "name": "NHN",
+      "changeRatio": "+1.79%"
+    },
+    {
+      "name": "이씨에스",
+      "changeRatio": "+1.48%"
+    },
+    {
+      "name": "제이씨현시스템",
+      "changeRatio": "+1.27%"
+    },
+    {
+      "name": "소프트캠프",
+      "changeRatio": "+1.11%"
+    },
+    {
+      "name": "효성ITX",
+      "changeRatio": "+0.90%"
+    },
+    {
+      "name": "파수",
+      "changeRatio": "+0.56%"
+    },
+    {
+      "name": "더존비즈온",
+      "changeRatio": "-0.49%"
+    }
+  ],
+  "코로나19(진단키트)": [
+    {
+      "name": "드림텍",
+      "changeRatio": "+29.78%"
+    },
+    {
+      "name": "필로시스헬스케어",
+      "changeRatio": "+11.23%"
+    },
+    {
+      "name": "엑세스바이오",
+      "changeRatio": "+5.96%"
+    },
+    {
+      "name": "천랩",
+      "changeRatio": "+5.81%"
+    },
+    {
+      "name": "인트론바이오",
+      "changeRatio": "+5.71%"
+    },
+    {
+      "name": "앤디포스",
+      "changeRatio": "+5.20%"
+    },
+    {
+      "name": "소마젠(Reg.S)",
+      "changeRatio": "+4.17%"
+    },
+    {
+      "name": "디엔에이링크",
+      "changeRatio": "+3.37%"
+    },
+    {
+      "name": "바이오니아",
+      "changeRatio": "+3.23%"
+    },
+    {
+      "name": "젠큐릭스",
+      "changeRatio": "+3.09%"
+    },
+    {
+      "name": "EDGC",
+      "changeRatio": "+3.06%"
+    },
+    {
+      "name": "제놀루션",
+      "changeRatio": "+2.93%"
+    },
+    {
+      "name": "우리들제약",
+      "changeRatio": "+2.73%"
+    },
+    {
+      "name": "녹십자엠에스",
+      "changeRatio": "+2.48%"
+    },
+    {
+      "name": "바이오스마트",
+      "changeRatio": "+2.37%"
+    },
+    {
+      "name": "씨티씨바이오",
+      "changeRatio": "+1.83%"
+    },
+    {
+      "name": "미코",
+      "changeRatio": "+1.35%"
+    },
+    {
+      "name": "씨젠",
+      "changeRatio": "+1.15%"
+    },
+    {
+      "name": "얼라인드",
+      "changeRatio": "+0.93%"
+    },
+    {
+      "name": "랩지노믹스",
+      "changeRatio": "+0.85%"
+    },
+    {
+      "name": "대웅제약",
+      "changeRatio": "+0.63%"
+    },
+    {
+      "name": "수젠텍",
+      "changeRatio": "+0.38%"
+    },
+    {
+      "name": "휴온스",
+      "changeRatio": "+0.33%"
+    },
+    {
+      "name": "진매트릭스",
+      "changeRatio": "+0.32%"
+    },
+    {
+      "name": "우리들휴브레인",
+      "changeRatio": "+0.15%"
+    },
+    {
+      "name": "미코바이오메드",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "바디텍메드",
+      "changeRatio": "-0.72%"
+    },
+    {
+      "name": "피씨엘",
+      "changeRatio": "-0.74%"
+    },
+    {
+      "name": "지노믹트리",
+      "changeRatio": "-1.16%"
+    },
+    {
+      "name": "오상자이엘",
+      "changeRatio": "-1.33%"
+    },
+    {
+      "name": "나노엔텍",
+      "changeRatio": "-2.12%"
+    },
+    {
+      "name": "바이오톡스텍",
+      "changeRatio": "-2.18%"
+    },
+    {
+      "name": "휴마시스",
+      "changeRatio": "-2.36%"
+    },
+    {
+      "name": "마이크로디지탈",
+      "changeRatio": "-2.89%"
+    },
+    {
+      "name": "파미셀",
+      "changeRatio": "-4.82%"
+    }
+  ],
+  "스마트폰": [
+    {
+      "name": "드림텍",
+      "changeRatio": "+29.78%"
+    },
+    {
+      "name": "엘디티",
+      "changeRatio": "+9.53%"
+    },
+    {
+      "name": "와이팜",
+      "changeRatio": "+9.09%"
+    },
+    {
+      "name": "서진시스템",
+      "changeRatio": "+7.12%"
+    },
+    {
+      "name": "노바텍",
+      "changeRatio": "+6.92%"
+    },
+    {
+      "name": "코렌",
+      "changeRatio": "+6.86%"
+    },
+    {
+      "name": "알에프텍",
+      "changeRatio": "+4.41%"
+    },
+    {
+      "name": "멜파스",
+      "changeRatio": "+4.21%"
+    },
+    {
+      "name": "동운아나텍",
+      "changeRatio": "+4.06%"
+    },
+    {
+      "name": "기가레인",
+      "changeRatio": "+3.99%"
+    },
+    {
+      "name": "이미지스",
+      "changeRatio": "+3.63%"
+    },
+    {
+      "name": "LG디스플레이",
+      "changeRatio": "+3.41%"
+    },
+    {
+      "name": "에이스테크",
+      "changeRatio": "+3.40%"
+    },
+    {
+      "name": "아이앤씨",
+      "changeRatio": "+3.33%"
+    },
+    {
+      "name": "이수페타시스",
+      "changeRatio": "+2.87%"
+    },
+    {
+      "name": "에스맥",
+      "changeRatio": "+2.43%"
+    },
+    {
+      "name": "알에프세미",
+      "changeRatio": "+2.36%"
+    },
+    {
+      "name": "디지탈옵틱",
+      "changeRatio": "+2.24%"
+    },
+    {
+      "name": "유티아이",
+      "changeRatio": "+2.06%"
+    },
+    {
+      "name": "제이앤티씨",
+      "changeRatio": "+1.87%"
+    },
+    {
+      "name": "피델릭스",
+      "changeRatio": "+1.74%"
+    },
+    {
+      "name": "엘엠에스",
+      "changeRatio": "+1.62%"
+    },
+    {
+      "name": "모베이스",
+      "changeRatio": "+1.55%"
+    },
+    {
+      "name": "액트로",
+      "changeRatio": "+1.54%"
+    },
+    {
+      "name": "와이제이엠게임즈",
+      "changeRatio": "+1.40%"
+    },
+    {
+      "name": "모다이노칩",
+      "changeRatio": "+1.25%"
+    },
+    {
+      "name": "LG이노텍",
+      "changeRatio": "+1.24%"
+    },
+    {
+      "name": "인탑스",
+      "changeRatio": "+1.24%"
+    },
+    {
+      "name": "한일진공",
+      "changeRatio": "+1.18%"
+    },
+    {
+      "name": "디스플레이텍",
+      "changeRatio": "+1.15%"
+    },
+    {
+      "name": "레몬",
+      "changeRatio": "+1.14%"
+    },
+    {
+      "name": "KH바텍",
+      "changeRatio": "+1.12%"
+    },
+    {
+      "name": "테이팩스",
+      "changeRatio": "+1.08%"
+    },
+    {
+      "name": "성우전자",
+      "changeRatio": "+0.98%"
+    },
+    {
+      "name": "육일씨엔에쓰",
+      "changeRatio": "+0.93%"
+    },
+    {
+      "name": "텔레칩스",
+      "changeRatio": "+0.77%"
+    },
+    {
+      "name": "아진엑스텍",
+      "changeRatio": "+0.56%"
+    },
+    {
+      "name": "대덕",
+      "changeRatio": "+0.47%"
+    },
+    {
+      "name": "엔피디",
+      "changeRatio": "+0.38%"
+    },
+    {
+      "name": "캠시스",
+      "changeRatio": "+0.35%"
+    },
+    {
+      "name": "한국컴퓨터",
+      "changeRatio": "+0.33%"
+    },
+    {
+      "name": "해성옵틱스",
+      "changeRatio": "+0.32%"
+    },
+    {
+      "name": "덕산네오룩스",
+      "changeRatio": "+0.32%"
+    },
+    {
+      "name": "나무가",
+      "changeRatio": "+0.25%"
+    },
+    {
+      "name": "세경하이테크",
+      "changeRatio": "+0.23%"
+    },
+    {
+      "name": "디자인",
+      "changeRatio": "+0.15%"
+    },
+    {
+      "name": "삼성전자",
+      "changeRatio": "+0.15%"
+    },
+    {
+      "name": "디케이티",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "자화전자",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "인터플렉스",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "에이치엔티",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "켐트로닉스",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "유아이디",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "아모그린텍",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "일야",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "크루셜텍",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "파워로직스",
+      "changeRatio": "-0.23%"
+    },
+    {
+      "name": "하이비젼시스템",
+      "changeRatio": "-0.39%"
+    },
+    {
+      "name": "LG전자",
+      "changeRatio": "-0.45%"
+    },
+    {
+      "name": "대덕전자",
+      "changeRatio": "-0.48%"
+    },
+    {
+      "name": "파트론",
+      "changeRatio": "-0.50%"
+    },
+    {
+      "name": "아비코전자",
+      "changeRatio": "-0.57%"
+    },
+    {
+      "name": "삼성SDI",
+      "changeRatio": "-0.58%"
+    },
+    {
+      "name": "장원테크",
+      "changeRatio": "-0.68%"
+    },
+    {
+      "name": "시노펙스",
+      "changeRatio": "-0.74%"
+    },
+    {
+      "name": "슈피겐코리아",
+      "changeRatio": "-0.76%"
+    },
+    {
+      "name": "아모텍",
+      "changeRatio": "-0.95%"
+    },
+    {
+      "name": "토비스",
+      "changeRatio": "-1.03%"
+    },
+    {
+      "name": "이엠텍",
+      "changeRatio": "-1.72%"
+    },
+    {
+      "name": "블루콤",
+      "changeRatio": "-2.98%"
+    },
+    {
+      "name": "솔루에타",
+      "changeRatio": "-2.98%"
+    }
+  ],
+  "치매": [
+    {
+      "name": "종근당",
+      "changeRatio": "+17.70%"
+    },
+    {
+      "name": "이연제약",
+      "changeRatio": "+15.00%"
+    },
+    {
+      "name": "네이처셀",
+      "changeRatio": "+8.81%"
+    },
+    {
+      "name": "일동제약",
+      "changeRatio": "+7.92%"
+    },
+    {
+      "name": "젬백스",
+      "changeRatio": "+6.75%"
+    },
+    {
+      "name": "퓨쳐켐",
+      "changeRatio": "+5.14%"
+    },
+    {
+      "name": "에이비엘바이오",
+      "changeRatio": "+3.68%"
+    },
+    {
+      "name": "유유제약",
+      "changeRatio": "+3.44%"
+    },
+    {
+      "name": "메디프론",
+      "changeRatio": "+2.97%"
+    },
+    {
+      "name": "엔에스엔",
+      "changeRatio": "+2.63%"
+    },
+    {
+      "name": "바이오스마트",
+      "changeRatio": "+2.37%"
+    },
+    {
+      "name": "진양제약",
+      "changeRatio": "+2.37%"
+    },
+    {
+      "name": "화일약품",
+      "changeRatio": "+2.36%"
+    },
+    {
+      "name": "환인제약",
+      "changeRatio": "+2.27%"
+    },
+    {
+      "name": "모나리자",
+      "changeRatio": "+2.03%"
+    },
+    {
+      "name": "동구바이오제약",
+      "changeRatio": "+1.97%"
+    },
+    {
+      "name": "명문제약",
+      "changeRatio": "+1.92%"
+    },
+    {
+      "name": "현대약품",
+      "changeRatio": "+1.86%"
+    },
+    {
+      "name": "씨티씨바이오",
+      "changeRatio": "+1.83%"
+    },
+    {
+      "name": "메디포스트",
+      "changeRatio": "+1.78%"
+    },
+    {
+      "name": "보령제약",
+      "changeRatio": "+1.53%"
+    },
+    {
+      "name": "삼진제약",
+      "changeRatio": "+1.48%"
+    },
+    {
+      "name": "대화제약",
+      "changeRatio": "+1.37%"
+    },
+    {
+      "name": "에이치엘비제약",
+      "changeRatio": "+1.06%"
+    },
+    {
+      "name": "동아에스티",
+      "changeRatio": "+0.79%"
+    },
+    {
+      "name": "대웅제약",
+      "changeRatio": "+0.63%"
+    },
+    {
+      "name": "고려제약",
+      "changeRatio": "+0.47%"
+    },
+    {
+      "name": "수젠텍",
+      "changeRatio": "+0.38%"
+    },
+    {
+      "name": "배럴",
+      "changeRatio": "+0.24%"
+    },
+    {
+      "name": "일진홀딩스",
+      "changeRatio": "+0.20%"
+    },
+    {
+      "name": "유한양행",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "솔고바이오",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "SK케미칼",
+      "changeRatio": "-0.23%"
+    },
+    {
+      "name": "리메드",
+      "changeRatio": "-0.33%"
+    },
+    {
+      "name": "켐온",
+      "changeRatio": "-0.34%"
+    },
+    {
+      "name": "피씨엘",
+      "changeRatio": "-0.74%"
+    },
+    {
+      "name": "아이큐어",
+      "changeRatio": "-1.12%"
+    },
+    {
+      "name": "펩트론",
+      "changeRatio": "-1.22%"
+    },
+    {
+      "name": "한국파마",
+      "changeRatio": "-1.75%"
+    },
+    {
+      "name": "에이프로젠제약",
+      "changeRatio": "-1.79%"
+    },
+    {
+      "name": "신신제약",
+      "changeRatio": "-1.92%"
+    },
+    {
+      "name": "피플바이오",
+      "changeRatio": "-6.40%"
+    }
+  ],
+  "갤럭시 부품주": [
+    {
+      "name": "드림텍",
+      "changeRatio": "+29.78%"
+    },
+    {
+      "name": "와이팜",
+      "changeRatio": "+9.09%"
+    },
+    {
+      "name": "뉴프렉스",
+      "changeRatio": "+7.42%"
+    },
+    {
+      "name": "앤디포스",
+      "changeRatio": "+5.20%"
+    },
+    {
+      "name": "알에프텍",
+      "changeRatio": "+4.41%"
+    },
+    {
+      "name": "기가레인",
+      "changeRatio": "+3.99%"
+    },
+    {
+      "name": "이수페타시스",
+      "changeRatio": "+2.87%"
+    },
+    {
+      "name": "PI첨단소재",
+      "changeRatio": "+2.51%"
+    },
+    {
+      "name": "제이앤티씨",
+      "changeRatio": "+1.87%"
+    },
+    {
+      "name": "모베이스",
+      "changeRatio": "+1.55%"
+    },
+    {
+      "name": "인탑스",
+      "changeRatio": "+1.24%"
+    },
+    {
+      "name": "레몬",
+      "changeRatio": "+1.14%"
+    },
+    {
+      "name": "KH바텍",
+      "changeRatio": "+1.12%"
+    },
+    {
+      "name": "신화콘텍",
+      "changeRatio": "+0.76%"
+    },
+    {
+      "name": "옵트론텍",
+      "changeRatio": "+0.61%"
+    },
+    {
+      "name": "한솔테크닉스",
+      "changeRatio": "+0.57%"
+    },
+    {
+      "name": "아이엠",
+      "changeRatio": "+0.56%"
+    },
+    {
+      "name": "엠씨넥스",
+      "changeRatio": "+0.56%"
+    },
+    {
+      "name": "대덕",
+      "changeRatio": "+0.47%"
+    },
+    {
+      "name": "코리아써키트",
+      "changeRatio": "+0.38%"
+    },
+    {
+      "name": "캠시스",
+      "changeRatio": "+0.35%"
+    },
+    {
+      "name": "덕산네오룩스",
+      "changeRatio": "+0.32%"
+    },
+    {
+      "name": "나무가",
+      "changeRatio": "+0.25%"
+    },
+    {
+      "name": "세경하이테크",
+      "changeRatio": "+0.23%"
+    },
+    {
+      "name": "삼성전자",
+      "changeRatio": "+0.15%"
+    },
+    {
+      "name": "켐트로닉스",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "인터플렉스",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "아모그린텍",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "세코닉스",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "자화전자",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "이녹스첨단소재",
+      "changeRatio": "-0.22%"
+    },
+    {
+      "name": "파워로직스",
+      "changeRatio": "-0.23%"
+    },
+    {
+      "name": "비에이치",
+      "changeRatio": "-0.23%"
+    },
+    {
+      "name": "대덕전자",
+      "changeRatio": "-0.48%"
+    },
+    {
+      "name": "파트론",
+      "changeRatio": "-0.50%"
+    },
+    {
+      "name": "시노펙스",
+      "changeRatio": "-0.74%"
+    },
+    {
+      "name": "이랜텍",
+      "changeRatio": "-0.81%"
+    },
+    {
+      "name": "아모텍",
+      "changeRatio": "-0.95%"
+    },
+    {
+      "name": "삼성전기",
+      "changeRatio": "-1.00%"
+    }
+  ],
+  "코로나19(나파모스타트)": [
+    {
+      "name": "종근당홀딩스",
+      "changeRatio": "+29.85%"
+    },
+    {
+      "name": "종근당바이오",
+      "changeRatio": "+29.85%"
+    },
+    {
+      "name": "종근당",
+      "changeRatio": "+17.70%"
+    },
+    {
+      "name": "비씨월드제약",
+      "changeRatio": "+7.93%"
+    },
+    {
+      "name": "명문제약",
+      "changeRatio": "+1.92%"
+    },
+    {
+      "name": "JW중외제약",
+      "changeRatio": "+1.67%"
+    },
+    {
+      "name": "뉴지랩",
+      "changeRatio": "+0.78%"
+    },
+    {
+      "name": "제일파마홀딩스",
+      "changeRatio": "+0.62%"
+    },
+    {
+      "name": "엔지켐생명과학",
+      "changeRatio": "+0.39%"
+    },
+    {
+      "name": "SK케미칼",
+      "changeRatio": "-0.23%"
+    },
+    {
+      "name": "펩트론",
+      "changeRatio": "-1.22%"
+    },
+    {
+      "name": "제일약품",
+      "changeRatio": "-2.58%"
+    }
+  ],
+  "희귀금속(희토류 등)": [
+    {
+      "name": "노바텍",
+      "changeRatio": "+6.92%"
+    },
+    {
+      "name": "삼화전자",
+      "changeRatio": "+5.26%"
+    },
+    {
+      "name": "유니온머티리얼",
+      "changeRatio": "+2.58%"
+    },
+    {
+      "name": "에스맥",
+      "changeRatio": "+2.43%"
+    },
+    {
+      "name": "유니온",
+      "changeRatio": "+1.93%"
+    },
+    {
+      "name": "에코마이스터",
+      "changeRatio": "+1.47%"
+    },
+    {
+      "name": "쎄노텍",
+      "changeRatio": "+1.05%"
+    },
+    {
+      "name": "EG",
+      "changeRatio": "+1.03%"
+    },
+    {
+      "name": "POSCO",
+      "changeRatio": "+0.64%"
+    },
+    {
+      "name": "티플랙스",
+      "changeRatio": "+0.62%"
+    },
+    {
+      "name": "에스모 머티리얼즈",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "대원화성",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "LG상사",
+      "changeRatio": "-1.32%"
+    }
+  ],
+  "모바일콘텐츠(스마트폰/태블릿PC)": [
+    {
+      "name": "인프라웨어",
+      "changeRatio": "+30.00%"
+    },
+    {
+      "name": "엔지스테크널러지",
+      "changeRatio": "+10.05%"
+    },
+    {
+      "name": "셀바스AI",
+      "changeRatio": "+6.28%"
+    },
+    {
+      "name": "컴투스",
+      "changeRatio": "+3.15%"
+    },
+    {
+      "name": "KTH",
+      "changeRatio": "+2.92%"
+    },
+    {
+      "name": "티사이언티픽",
+      "changeRatio": "+2.89%"
+    },
+    {
+      "name": "YTN",
+      "changeRatio": "+2.65%"
+    },
+    {
+      "name": "포시에스",
+      "changeRatio": "+2.30%"
+    },
+    {
+      "name": "TJ미디어",
+      "changeRatio": "+2.10%"
+    },
+    {
+      "name": "소리바다",
+      "changeRatio": "+2.03%"
+    },
+    {
+      "name": "민앤지",
+      "changeRatio": "+1.89%"
+    },
+    {
+      "name": "삼성출판사",
+      "changeRatio": "+1.88%"
+    },
+    {
+      "name": "인포뱅크",
+      "changeRatio": "+1.66%"
+    },
+    {
+      "name": "디앤씨미디어",
+      "changeRatio": "+1.51%"
+    },
+    {
+      "name": "미스터블루",
+      "changeRatio": "+1.42%"
+    },
+    {
+      "name": "YBM넷",
+      "changeRatio": "+0.83%"
+    },
+    {
+      "name": "다날",
+      "changeRatio": "+0.57%"
+    },
+    {
+      "name": "게임빌",
+      "changeRatio": "+0.31%"
+    },
+    {
+      "name": "NAVER",
+      "changeRatio": "+0.18%"
+    },
+    {
+      "name": "네오위즈홀딩스",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "카카오",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "KT",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "지니뮤직",
+      "changeRatio": "-0.12%"
+    },
+    {
+      "name": "SK텔레콤",
+      "changeRatio": "-0.22%"
+    },
+    {
+      "name": "플랜티넷",
+      "changeRatio": "-0.34%"
+    },
+    {
+      "name": "키다리스튜디오",
+      "changeRatio": "-0.35%"
+    },
+    {
+      "name": "NHN벅스",
+      "changeRatio": "-0.51%"
+    },
+    {
+      "name": "한컴위드",
+      "changeRatio": "-1.21%"
+    },
+    {
+      "name": "KG모빌리언스",
+      "changeRatio": "-1.49%"
+    },
+    {
+      "name": "한글과컴퓨터",
+      "changeRatio": "-1.67%"
+    },
+    {
+      "name": "바른손",
+      "changeRatio": "-2.91%"
+    }
+  ],
+  "3D 프린터": [
+    {
+      "name": "MH에탄올",
+      "changeRatio": "+8.02%"
+    },
+    {
+      "name": "한국알콜",
+      "changeRatio": "+4.04%"
+    },
+    {
+      "name": "롯데칠성",
+      "changeRatio": "+2.99%"
+    },
+    {
+      "name": "풍국주정",
+      "changeRatio": "+2.56%"
+    },
+    {
+      "name": "창해에탄올",
+      "changeRatio": "+0.73%"
+    },
+    {
+      "name": "진로발효",
+      "changeRatio": "+0.64%"
+    },
+    {
+      "name": "하이트진로",
+      "changeRatio": "+0.60%"
+    },
+    {
+      "name": "보해양조",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "국순당",
+      "changeRatio": "-0.20%"
+    },
+    {
+      "name": "무학",
+      "changeRatio": "-0.31%"
+    },
+    {
+      "name": "하이트진로홀딩스",
+      "changeRatio": "-1.29%"
+    }
+  ],
+  "홈쇼핑": [
+    {
+      "name": "롯데쇼핑",
+      "changeRatio": "+4.45%"
+    },
+    {
+      "name": "태광산업",
+      "changeRatio": "+2.74%"
+    },
+    {
+      "name": "엔에스쇼핑",
+      "changeRatio": "+2.27%"
+    },
+    {
+      "name": "GS홈쇼핑",
+      "changeRatio": "+2.23%"
+    },
+    {
+      "name": "현대홈쇼핑",
+      "changeRatio": "+1.10%"
+    },
+    {
+      "name": "CJ ENM",
+      "changeRatio": "+0.97%"
+    }
+  ],
+  "소모성자재구매대행(MRO)": [
+    {
+      "name": "비케이탑스",
+      "changeRatio": "+8.82%"
+    },
+    {
+      "name": "이크레더블",
+      "changeRatio": "+1.48%"
+    },
+    {
+      "name": "이상네트웍스",
+      "changeRatio": "+0.99%"
+    },
+    {
+      "name": "아이마켓코리아",
+      "changeRatio": "+0.23%"
+    },
+    {
+      "name": "대명소노시즌",
+      "changeRatio": "-0.46%"
+    }
+  ],
+  "제대혈": [
+    {
+      "name": "차바이오텍",
+      "changeRatio": "+4.90%"
+    },
+    {
+      "name": "강스템바이오텍",
+      "changeRatio": "+2.23%"
+    },
+    {
+      "name": "녹십자랩셀",
+      "changeRatio": "+1.93%"
+    },
+    {
+      "name": "메디포스트",
+      "changeRatio": "+1.78%"
+    },
+    {
+      "name": "녹십자셀",
+      "changeRatio": "+1.57%"
+    },
+    {
+      "name": "세원셀론텍",
+      "changeRatio": "+1.08%"
+    },
+    {
+      "name": "녹십자",
+      "changeRatio": "-1.80%"
+    }
+  ],
+  "모바일솔루션(스마트폰)": [
+    {
+      "name": "인프라웨어",
+      "changeRatio": "+30.00%"
+    },
+    {
+      "name": "다산네트웍스",
+      "changeRatio": "+6.88%"
+    },
+    {
+      "name": "셀바스AI",
+      "changeRatio": "+6.28%"
+    },
+    {
+      "name": "젬백스링크",
+      "changeRatio": "+5.06%"
+    },
+    {
+      "name": "이미지스",
+      "changeRatio": "+3.63%"
+    },
+    {
+      "name": "이루온",
+      "changeRatio": "+2.60%"
+    },
+    {
+      "name": "카페24",
+      "changeRatio": "+1.88%"
+    },
+    {
+      "name": "인포뱅크",
+      "changeRatio": "+1.66%"
+    },
+    {
+      "name": "키네마스터",
+      "changeRatio": "+1.37%"
+    },
+    {
+      "name": "모바일리더",
+      "changeRatio": "+0.96%"
+    },
+    {
+      "name": "위세아이텍",
+      "changeRatio": "+0.89%"
+    },
+    {
+      "name": "다날",
+      "changeRatio": "+0.57%"
+    },
+    {
+      "name": "텔코웨어",
+      "changeRatio": "+0.42%"
+    },
+    {
+      "name": "네이블",
+      "changeRatio": "+0.23%"
+    },
+    {
+      "name": "유비벨록스",
+      "changeRatio": "+0.22%"
+    },
+    {
+      "name": "갤럭시아머니트리",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "지어소프트",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "유엔젤",
+      "changeRatio": "-0.59%"
+    },
+    {
+      "name": "투비소프트",
+      "changeRatio": "-0.72%"
+    },
+    {
+      "name": "한컴MDS",
+      "changeRatio": "-1.60%"
+    },
+    {
+      "name": "코리아센터",
+      "changeRatio": "-19.91%"
+    }
+  ],
+  "조선": [
+    {
+      "name": "현대미포조선",
+      "changeRatio": "+7.90%"
+    },
+    {
+      "name": "삼성중공업",
+      "changeRatio": "+3.45%"
+    },
+    {
+      "name": "대우조선해양",
+      "changeRatio": "+2.00%"
+    },
+    {
+      "name": "한국조선해양",
+      "changeRatio": "+1.38%"
+    },
+    {
+      "name": "한진중공업",
+      "changeRatio": "-0.56%"
+    }
+  ],
+  "LED": [
+    {
+      "name": "드림텍",
+      "changeRatio": "+29.78%"
+    },
+    {
+      "name": "세미콘라이트",
+      "changeRatio": "+10.58%"
+    },
+    {
+      "name": "엘디티",
+      "changeRatio": "+9.53%"
+    },
+    {
+      "name": "필룩스",
+      "changeRatio": "+8.41%"
+    },
+    {
+      "name": "비보존 헬스케어",
+      "changeRatio": "+7.75%"
+    },
+    {
+      "name": "루멘스",
+      "changeRatio": "+6.24%"
+    },
+    {
+      "name": "성호전자",
+      "changeRatio": "+5.17%"
+    },
+    {
+      "name": "일진디스플",
+      "changeRatio": "+5.17%"
+    },
+    {
+      "name": "케이엠더블유",
+      "changeRatio": "+5.15%"
+    },
+    {
+      "name": "서울바이오시스",
+      "changeRatio": "+5.04%"
+    },
+    {
+      "name": "알에프텍",
+      "changeRatio": "+4.41%"
+    },
+    {
+      "name": "서울반도체",
+      "changeRatio": "+3.81%"
+    },
+    {
+      "name": "유테크",
+      "changeRatio": "+3.46%"
+    },
+    {
+      "name": "에스폴리텍",
+      "changeRatio": "+2.59%"
+    },
+    {
+      "name": "광전자",
+      "changeRatio": "+2.58%"
+    },
+    {
+      "name": "태경비케이",
+      "changeRatio": "+2.54%"
+    },
+    {
+      "name": "엘컴텍",
+      "changeRatio": "+2.41%"
+    },
+    {
+      "name": "알에프세미",
+      "changeRatio": "+2.36%"
+    },
+    {
+      "name": "에프알텍",
+      "changeRatio": "+1.92%"
+    },
+    {
+      "name": "GV",
+      "changeRatio": "+1.44%"
+    },
+    {
+      "name": "우리이앤엘",
+      "changeRatio": "+1.40%"
+    },
+    {
+      "name": "오디텍",
+      "changeRatio": "+1.33%"
+    },
+    {
+      "name": "LG이노텍",
+      "changeRatio": "+1.24%"
+    },
+    {
+      "name": "파커스",
+      "changeRatio": "+1.01%"
+    },
+    {
+      "name": "삼진엘앤디",
+      "changeRatio": "+0.88%"
+    },
+    {
+      "name": "금호에이치티",
+      "changeRatio": "+0.75%"
+    },
+    {
+      "name": "한솔테크닉스",
+      "changeRatio": "+0.57%"
+    },
+    {
+      "name": "태경산업",
+      "changeRatio": "+0.53%"
+    },
+    {
+      "name": "금호전기",
+      "changeRatio": "+0.39%"
+    },
+    {
+      "name": "파인테크닉스",
+      "changeRatio": "+0.37%"
+    },
+    {
+      "name": "빛샘전자",
+      "changeRatio": "+0.35%"
+    },
+    {
+      "name": "레이크머티리얼즈",
+      "changeRatio": "+0.23%"
+    },
+    {
+      "name": "아이엘사이언스",
+      "changeRatio": "+0.16%"
+    },
+    {
+      "name": "삼성전자",
+      "changeRatio": "+0.15%"
+    },
+    {
+      "name": "한국단자",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "에스모 머티리얼즈",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "유양디앤유",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "아이엠이연이",
+      "changeRatio": "-0.20%"
+    },
+    {
+      "name": "매직마이크로",
+      "changeRatio": "-0.26%"
+    },
+    {
+      "name": "라이브파이낸셜",
+      "changeRatio": "-0.34%"
+    },
+    {
+      "name": "LG전자",
+      "changeRatio": "-0.45%"
+    },
+    {
+      "name": "현대통신",
+      "changeRatio": "-0.55%"
+    },
+    {
+      "name": "우리조명",
+      "changeRatio": "-0.65%"
+    },
+    {
+      "name": "케이엔제이",
+      "changeRatio": "-0.83%"
+    },
+    {
+      "name": "제이엠아이",
+      "changeRatio": "-0.88%"
+    },
+    {
+      "name": "나노신소재",
+      "changeRatio": "-0.93%"
+    },
+    {
+      "name": "포인트엔지니어링",
+      "changeRatio": "-1.19%"
+    },
+    {
+      "name": "한라IMS",
+      "changeRatio": "-1.44%"
+    },
+    {
+      "name": "소룩스",
+      "changeRatio": "-2.16%"
+    },
+    {
+      "name": "우리바이오",
+      "changeRatio": "-7.39%"
+    }
+  ],
+  "화장품": [
+    {
+      "name": "네이처셀",
+      "changeRatio": "+8.81%"
+    },
+    {
+      "name": "컬러레이",
+      "changeRatio": "+7.87%"
+    },
+    {
+      "name": "에이블씨엔씨",
+      "changeRatio": "+6.40%"
+    },
+    {
+      "name": "콜마비앤에이치",
+      "changeRatio": "+6.34%"
+    },
+    {
+      "name": "잇츠한불",
+      "changeRatio": "+5.65%"
+    },
+    {
+      "name": "제로투세븐",
+      "changeRatio": "+5.09%"
+    },
+    {
+      "name": "한국화장품",
+      "changeRatio": "+5.09%"
+    },
+    {
+      "name": "라파스",
+      "changeRatio": "+4.82%"
+    },
+    {
+      "name": "아모레퍼시픽",
+      "changeRatio": "+4.79%"
+    },
+    {
+      "name": "에프앤리퍼블릭",
+      "changeRatio": "+4.74%"
+    },
+    {
+      "name": "클리오",
+      "changeRatio": "+4.14%"
+    },
+    {
+      "name": "제이준코스메틱",
+      "changeRatio": "+4.06%"
+    },
+    {
+      "name": "넥스트아이",
+      "changeRatio": "+3.86%"
+    },
+    {
+      "name": "연우",
+      "changeRatio": "+3.62%"
+    },
+    {
+      "name": "한국콜마",
+      "changeRatio": "+3.52%"
+    },
+    {
+      "name": "메타랩스",
+      "changeRatio": "+3.51%"
+    },
+    {
+      "name": "코스메카코리아",
+      "changeRatio": "+3.47%"
+    },
+    {
+      "name": "케어젠",
+      "changeRatio": "+3.43%"
+    },
+    {
+      "name": "넥스트BT",
+      "changeRatio": "+3.31%"
+    },
+    {
+      "name": "코리아나",
+      "changeRatio": "+3.30%"
+    },
+    {
+      "name": "한국화장품제조",
+      "changeRatio": "+3.25%"
+    },
+    {
+      "name": "현대바이오랜드",
+      "changeRatio": "+3.05%"
+    },
+    {
+      "name": "코디",
+      "changeRatio": "+2.60%"
+    },
+    {
+      "name": "세화피앤씨",
+      "changeRatio": "+2.60%"
+    },
+    {
+      "name": "글로본",
+      "changeRatio": "+2.58%"
+    },
+    {
+      "name": "코스맥스",
+      "changeRatio": "+2.53%"
+    },
+    {
+      "name": "토니모리",
+      "changeRatio": "+2.47%"
+    },
+    {
+      "name": "국제약품",
+      "changeRatio": "+2.42%"
+    },
+    {
+      "name": "바이오스마트",
+      "changeRatio": "+2.37%"
+    },
+    {
+      "name": "브이티지엠피",
+      "changeRatio": "+2.30%"
+    },
+    {
+      "name": "오가닉티코스메틱",
+      "changeRatio": "+2.30%"
+    },
+    {
+      "name": "제닉",
+      "changeRatio": "+2.29%"
+    },
+    {
+      "name": "강스템바이오텍",
+      "changeRatio": "+2.23%"
+    },
+    {
+      "name": "동성제약",
+      "changeRatio": "+2.18%"
+    },
+    {
+      "name": "에스디생명공학",
+      "changeRatio": "+2.16%"
+    },
+    {
+      "name": "한국콜마홀딩스",
+      "changeRatio": "+2.10%"
+    },
+    {
+      "name": "LG생활건강",
+      "changeRatio": "+2.09%"
+    },
+    {
+      "name": "넥스트사이언스",
+      "changeRatio": "+2.08%"
+    },
+    {
+      "name": "동구바이오제약",
+      "changeRatio": "+1.97%"
+    },
+    {
+      "name": "이아이디",
+      "changeRatio": "+1.73%"
+    },
+    {
+      "name": "신세계인터내셔날",
+      "changeRatio": "+1.65%"
+    },
+    {
+      "name": "브레인콘텐츠",
+      "changeRatio": "+1.57%"
+    },
+    {
+      "name": "엘앤씨바이오",
+      "changeRatio": "+1.50%"
+    },
+    {
+      "name": "현대바이오",
+      "changeRatio": "+1.41%"
+    },
+    {
+      "name": "씨큐브",
+      "changeRatio": "+1.36%"
+    },
+    {
+      "name": "에스씨엠생명과학",
+      "changeRatio": "+1.16%"
+    },
+    {
+      "name": "세원셀론텍",
+      "changeRatio": "+1.08%"
+    },
+    {
+      "name": "본느",
+      "changeRatio": "+1.03%"
+    },
+    {
+      "name": "애경산업",
+      "changeRatio": "+1.01%"
+    },
+    {
+      "name": "YG PLUS",
+      "changeRatio": "+0.99%"
+    },
+    {
+      "name": "CSA 코스믹",
+      "changeRatio": "+0.99%"
+    },
+    {
+      "name": "코웨이",
+      "changeRatio": "+0.98%"
+    },
+    {
+      "name": "바이온",
+      "changeRatio": "+0.89%"
+    },
+    {
+      "name": "한국주철관",
+      "changeRatio": "+0.84%"
+    },
+    {
+      "name": "리더스코스메틱",
+      "changeRatio": "+0.78%"
+    },
+    {
+      "name": "클래시스",
+      "changeRatio": "+0.65%"
+    },
+    {
+      "name": "잉글우드랩",
+      "changeRatio": "+0.39%"
+    },
+    {
+      "name": "씨티케이코스메틱스",
+      "changeRatio": "+0.37%"
+    },
+    {
+      "name": "승일",
+      "changeRatio": "+0.36%"
+    },
+    {
+      "name": "펌텍코리아",
+      "changeRatio": "+0.34%"
+    },
+    {
+      "name": "CJ제일제당",
+      "changeRatio": "+0.14%"
+    },
+    {
+      "name": "블러썸엠앤씨",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "스킨앤스킨",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "대봉엘에스",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "미원상사",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "네오팜",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "내츄럴엔도텍",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "스튜디오산타클로스",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "애니젠",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "슈펙스비앤피",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "프로스테믹스",
+      "changeRatio": "-0.13%"
+    },
+    {
+      "name": "올리패스",
+      "changeRatio": "-0.28%"
+    },
+    {
+      "name": "슈피겐코리아",
+      "changeRatio": "-0.76%"
+    },
+    {
+      "name": "아이큐어",
+      "changeRatio": "-1.12%"
+    },
+    {
+      "name": "MP한강",
+      "changeRatio": "-1.15%"
+    },
+    {
+      "name": "오상자이엘",
+      "changeRatio": "-1.33%"
+    },
+    {
+      "name": "아우딘퓨쳐스",
+      "changeRatio": "-1.73%"
+    },
+    {
+      "name": "바른손",
+      "changeRatio": "-2.91%"
+    },
+    {
+      "name": "파미셀",
+      "changeRatio": "-4.82%"
+    },
+    {
+      "name": "코스온",
+      "changeRatio": "-6.00%"
+    }
+  ],
+  "마이크로 LED": [
+    {
+      "name": "세미콘라이트",
+      "changeRatio": "+10.58%"
+    },
+    {
+      "name": "루멘스",
+      "changeRatio": "+6.24%"
+    },
+    {
+      "name": "서울반도체",
+      "changeRatio": "+3.81%"
+    },
+    {
+      "name": "광전자",
+      "changeRatio": "+2.58%"
+    },
+    {
+      "name": "코세스",
+      "changeRatio": "+2.25%"
+    },
+    {
+      "name": "큐에스아이",
+      "changeRatio": "+1.32%"
+    },
+    {
+      "name": "삼성전자",
+      "changeRatio": "+0.15%"
+    },
+    {
+      "name": "LG전자",
+      "changeRatio": "-0.45%"
+    },
+    {
+      "name": "티엘아이",
+      "changeRatio": "-0.66%"
+    },
+    {
+      "name": "영우디에스피",
+      "changeRatio": "-4.20%"
+    }
+  ],
+  "5G(5세대 이동통신)": [
+    {
+      "name": "유비쿼스",
+      "changeRatio": "+15.59%"
+    },
+    {
+      "name": "와이팜",
+      "changeRatio": "+9.09%"
+    },
+    {
+      "name": "서진시스템",
+      "changeRatio": "+7.12%"
+    },
+    {
+      "name": "에치에프알",
+      "changeRatio": "+5.37%"
+    },
+    {
+      "name": "케이엠더블유",
+      "changeRatio": "+5.15%"
+    },
+    {
+      "name": "웨이브일렉트로",
+      "changeRatio": "+4.93%"
+    },
+    {
+      "name": "알에프텍",
+      "changeRatio": "+4.41%"
+    },
+    {
+      "name": "쏠리드",
+      "changeRatio": "+4.15%"
+    },
+    {
+      "name": "기가레인",
+      "changeRatio": "+3.99%"
+    },
+    {
+      "name": "RFHIC",
+      "changeRatio": "+3.90%"
+    },
+    {
+      "name": "오이솔루션",
+      "changeRatio": "+3.80%"
+    },
+    {
+      "name": "이노인스트루먼트",
+      "changeRatio": "+3.49%"
+    },
+    {
+      "name": "에이스테크",
+      "changeRatio": "+3.40%"
+    },
+    {
+      "name": "이수페타시스",
+      "changeRatio": "+2.87%"
+    },
+    {
+      "name": "엔텔스",
+      "changeRatio": "+2.84%"
+    },
+    {
+      "name": "이노와이어리스",
+      "changeRatio": "+2.69%"
+    },
+    {
+      "name": "이루온",
+      "changeRatio": "+2.60%"
+    },
+    {
+      "name": "기산텔레콤",
+      "changeRatio": "+2.53%"
+    },
+    {
+      "name": "PI첨단소재",
+      "changeRatio": "+2.51%"
+    },
+    {
+      "name": "전파기지국",
+      "changeRatio": "+2.48%"
+    },
+    {
+      "name": "나무기술",
+      "changeRatio": "+2.22%"
+    },
+    {
+      "name": "대한광통신",
+      "changeRatio": "+2.04%"
+    },
+    {
+      "name": "와이솔",
+      "changeRatio": "+1.95%"
+    },
+    {
+      "name": "에프알텍",
+      "changeRatio": "+1.92%"
+    },
+    {
+      "name": "피피아이",
+      "changeRatio": "+1.57%"
+    },
+    {
+      "name": "트루윈",
+      "changeRatio": "+1.54%"
+    },
+    {
+      "name": "오파스넷",
+      "changeRatio": "+1.46%"
+    },
+    {
+      "name": "코위버",
+      "changeRatio": "+1.15%"
+    },
+    {
+      "name": "우리넷",
+      "changeRatio": "+1.11%"
+    },
+    {
+      "name": "우리로",
+      "changeRatio": "+0.98%"
+    },
+    {
+      "name": "삼지전자",
+      "changeRatio": "+0.84%"
+    },
+    {
+      "name": "아이크래프트",
+      "changeRatio": "+0.48%"
+    },
+    {
+      "name": "대덕",
+      "changeRatio": "+0.47%"
+    },
+    {
+      "name": "LG유플러스",
+      "changeRatio": "+0.44%"
+    },
+    {
+      "name": "텔코웨어",
+      "changeRatio": "+0.42%"
+    },
+    {
+      "name": "삼성전자",
+      "changeRatio": "+0.15%"
+    },
+    {
+      "name": "텔레필드",
+      "changeRatio": "+0.15%"
+    },
+    {
+      "name": "KT",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "SK텔레콤",
+      "changeRatio": "-0.22%"
+    },
+    {
+      "name": "매직마이크로",
+      "changeRatio": "-0.26%"
+    },
+    {
+      "name": "감마누",
+      "changeRatio": "-0.33%"
+    },
+    {
+      "name": "LG전자",
+      "changeRatio": "-0.45%"
+    },
+    {
+      "name": "대덕전자",
+      "changeRatio": "-0.48%"
+    }
+  ],
+  "K-뉴딜지수(게임)": [
+    {
+      "name": "위메이드",
+      "changeRatio": "+7.33%"
+    },
+    {
+      "name": "컴투스",
+      "changeRatio": "+3.15%"
+    },
+    {
+      "name": "NHN",
+      "changeRatio": "+1.79%"
+    },
+    {
+      "name": "더블유게임즈",
+      "changeRatio": "+1.35%"
+    },
+    {
+      "name": "골프존",
+      "changeRatio": "+1.28%"
+    },
+    {
+      "name": "넷마블",
+      "changeRatio": "+0.77%"
+    },
+    {
+      "name": "네오위즈",
+      "changeRatio": "+0.70%"
+    },
+    {
+      "name": "웹젠",
+      "changeRatio": "+0.56%"
+    },
+    {
+      "name": "펄어비스",
+      "changeRatio": "+0.19%"
+    },
+    {
+      "name": "엔씨소프트",
+      "changeRatio": "0.00%"
+    }
+  ],
+  "백신/진단시약/방역(신종플루, AI 등)": [
+    {
+      "name": "종근당",
+      "changeRatio": "+17.70%"
+    },
+    {
+      "name": "엑세스바이오",
+      "changeRatio": "+5.96%"
+    },
+    {
+      "name": "아이진",
+      "changeRatio": "+5.88%"
+    },
+    {
+      "name": "체시스",
+      "changeRatio": "+5.81%"
+    },
+    {
+      "name": "인트론바이오",
+      "changeRatio": "+5.71%"
+    },
+    {
+      "name": "대한뉴팜",
+      "changeRatio": "+3.92%"
+    },
+    {
+      "name": "바이오리더스",
+      "changeRatio": "+3.49%"
+    },
+    {
+      "name": "유바이오로직스",
+      "changeRatio": "+3.25%"
+    },
+    {
+      "name": "바이오니아",
+      "changeRatio": "+3.23%"
+    },
+    {
+      "name": "일양약품",
+      "changeRatio": "+2.92%"
+    },
+    {
+      "name": "광동제약",
+      "changeRatio": "+2.55%"
+    },
+    {
+      "name": "화일약품",
+      "changeRatio": "+2.36%"
+    },
+    {
+      "name": "코미팜",
+      "changeRatio": "+2.24%"
+    },
+    {
+      "name": "큐브앤컴퍼니",
+      "changeRatio": "+2.23%"
+    },
+    {
+      "name": "중앙백신",
+      "changeRatio": "+2.23%"
+    },
+    {
+      "name": "한국콜마홀딩스",
+      "changeRatio": "+2.10%"
+    },
+    {
+      "name": "씨티씨바이오",
+      "changeRatio": "+1.83%"
+    },
+    {
+      "name": "이글벳",
+      "changeRatio": "+1.80%"
+    },
+    {
+      "name": "보령제약",
+      "changeRatio": "+1.53%"
+    },
+    {
+      "name": "엔케이맥스",
+      "changeRatio": "+1.16%"
+    },
+    {
+      "name": "씨젠",
+      "changeRatio": "+1.15%"
+    },
+    {
+      "name": "우진비앤지",
+      "changeRatio": "+1.14%"
+    },
+    {
+      "name": "옵티팜",
+      "changeRatio": "+1.13%"
+    },
+    {
+      "name": "제일바이오",
+      "changeRatio": "+1.10%"
+    },
+    {
+      "name": "대성미생물",
+      "changeRatio": "+0.90%"
+    },
+    {
+      "name": "랩지노믹스",
+      "changeRatio": "+0.85%"
+    },
+    {
+      "name": "진원생명과학",
+      "changeRatio": "+0.56%"
+    },
+    {
+      "name": "고려제약",
+      "changeRatio": "+0.47%"
+    },
+    {
+      "name": "LG화학",
+      "changeRatio": "+0.42%"
+    },
+    {
+      "name": "녹십자홀딩스",
+      "changeRatio": "+0.38%"
+    },
+    {
+      "name": "수젠텍",
+      "changeRatio": "+0.38%"
+    },
+    {
+      "name": "진바이오텍",
+      "changeRatio": "+0.32%"
+    },
+    {
+      "name": "진매트릭스",
+      "changeRatio": "+0.32%"
+    },
+    {
+      "name": "미코바이오메드",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "유한양행",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "파루",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "한미약품",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "신풍제약",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "일성신약",
+      "changeRatio": "-0.12%"
+    },
+    {
+      "name": "SK케미칼",
+      "changeRatio": "-0.23%"
+    },
+    {
+      "name": "바디텍메드",
+      "changeRatio": "-0.72%"
+    },
+    {
+      "name": "피씨엘",
+      "changeRatio": "-0.74%"
+    },
+    {
+      "name": "에이프로젠제약",
+      "changeRatio": "-1.79%"
+    },
+    {
+      "name": "녹십자",
+      "changeRatio": "-1.80%"
+    }
+  ],
+  "마리화나(대마)": [
+    {
+      "name": "세미콘라이트",
+      "changeRatio": "+10.58%"
+    },
+    {
+      "name": "오성첨단소재",
+      "changeRatio": "+7.67%"
+    },
+    {
+      "name": "한국비엔씨",
+      "changeRatio": "+0.60%"
+    },
+    {
+      "name": "에이아이비트",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "뉴프라이드",
+      "changeRatio": "0.00%"
+    }
+  ],
+  "지능형로봇/인공지능(AI)": [
+    {
+      "name": "줌인터넷",
+      "changeRatio": "+24.09%"
+    },
+    {
+      "name": "셀바스AI",
+      "changeRatio": "+6.28%"
+    },
+    {
+      "name": "에이디칩스",
+      "changeRatio": "+5.01%"
+    },
+    {
+      "name": "제이엘케이",
+      "changeRatio": "+4.62%"
+    },
+    {
+      "name": "모비스",
+      "changeRatio": "+4.52%"
+    },
+    {
+      "name": "데이타솔루션",
+      "changeRatio": "+3.54%"
+    },
+    {
+      "name": "에스티큐브",
+      "changeRatio": "+3.48%"
+    },
+    {
+      "name": "우리기술",
+      "changeRatio": "+2.54%"
+    },
+    {
+      "name": "알에프세미",
+      "changeRatio": "+2.36%"
+    },
+    {
+      "name": "디지탈옵틱",
+      "changeRatio": "+2.24%"
+    },
+    {
+      "name": "로보티즈",
+      "changeRatio": "+2.07%"
+    },
+    {
+      "name": "TPC",
+      "changeRatio": "+1.94%"
+    },
+    {
+      "name": "신테카바이오",
+      "changeRatio": "+1.67%"
+    },
+    {
+      "name": "가온미디어",
+      "changeRatio": "+1.48%"
+    },
+    {
+      "name": "로보로보",
+      "changeRatio": "+1.26%"
+    },
+    {
+      "name": "큐렉소",
+      "changeRatio": "+1.18%"
+    },
+    {
+      "name": "네패스",
+      "changeRatio": "+1.10%"
+    },
+    {
+      "name": "한국전자인증",
+      "changeRatio": "+1.03%"
+    },
+    {
+      "name": "휴림로봇",
+      "changeRatio": "+0.89%"
+    },
+    {
+      "name": "위세아이텍",
+      "changeRatio": "+0.89%"
+    },
+    {
+      "name": "인포마크",
+      "changeRatio": "+0.82%"
+    },
+    {
+      "name": "솔트룩스",
+      "changeRatio": "+0.72%"
+    },
+    {
+      "name": "링크제니시스",
+      "changeRatio": "+0.57%"
+    },
+    {
+      "name": "한화에어로스페이스",
+      "changeRatio": "+0.56%"
+    },
+    {
+      "name": "고영",
+      "changeRatio": "+0.53%"
+    },
+    {
+      "name": "로보스타",
+      "changeRatio": "+0.38%"
+    },
+    {
+      "name": "오픈베이스",
+      "changeRatio": "+0.29%"
+    },
+    {
+      "name": "퍼스텍",
+      "changeRatio": "+0.23%"
+    },
+    {
+      "name": "싸이맥스",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "경남제약헬스케어",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "코너스톤네트웍스",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "LG전자",
+      "changeRatio": "-0.45%"
+    },
+    {
+      "name": "미래컴퍼니",
+      "changeRatio": "-0.46%"
+    },
+    {
+      "name": "스맥",
+      "changeRatio": "-0.47%"
+    },
+    {
+      "name": "유진로봇",
+      "changeRatio": "-1.53%"
+    },
+    {
+      "name": "바이브컴퍼니",
+      "changeRatio": "-2.68%"
+    }
+  ],
+  "슈퍼박테리아": [
+    {
+      "name": "종근당바이오",
+      "changeRatio": "+29.85%"
+    },
+    {
+      "name": "이연제약",
+      "changeRatio": "+15.00%"
+    },
+    {
+      "name": "레고켐바이오",
+      "changeRatio": "+5.73%"
+    },
+    {
+      "name": "인트론바이오",
+      "changeRatio": "+5.71%"
+    },
+    {
+      "name": "크리스탈지노믹스",
+      "changeRatio": "+3.41%"
+    },
+    {
+      "name": "영진약품",
+      "changeRatio": "+2.80%"
+    },
+    {
+      "name": "큐로컴",
+      "changeRatio": "+2.09%"
+    },
+    {
+      "name": "씨젠",
+      "changeRatio": "+1.15%"
+    },
+    {
+      "name": "동아에스티",
+      "changeRatio": "+0.79%"
+    },
+    {
+      "name": "파루",
+      "changeRatio": "0.00%"
+    }
+  ],
+  "면역항암제": [
+    {
+      "name": "코디엠",
+      "changeRatio": "+11.69%"
+    },
+    {
+      "name": "헬릭스미스",
+      "changeRatio": "+9.00%"
+    },
+    {
+      "name": "필룩스",
+      "changeRatio": "+8.41%"
+    },
+    {
+      "name": "메드팩토",
+      "changeRatio": "+5.15%"
+    },
+    {
+      "name": "박셀바이오",
+      "changeRatio": "+5.13%"
+    },
+    {
+      "name": "차바이오텍",
+      "changeRatio": "+4.90%"
+    },
+    {
+      "name": "에이비엘바이오",
+      "changeRatio": "+3.68%"
+    },
+    {
+      "name": "이수앱지스",
+      "changeRatio": "+3.51%"
+    },
+    {
+      "name": "에스티큐브",
+      "changeRatio": "+3.48%"
+    },
+    {
+      "name": "크리스탈지노믹스",
+      "changeRatio": "+3.41%"
+    },
+    {
+      "name": "영진약품",
+      "changeRatio": "+2.80%"
+    },
+    {
+      "name": "안국약품",
+      "changeRatio": "+2.30%"
+    },
+    {
+      "name": "녹십자랩셀",
+      "changeRatio": "+1.93%"
+    },
+    {
+      "name": "녹십자셀",
+      "changeRatio": "+1.57%"
+    },
+    {
+      "name": "티움바이오",
+      "changeRatio": "+1.23%"
+    },
+    {
+      "name": "엔케이맥스",
+      "changeRatio": "+1.16%"
+    },
+    {
+      "name": "앱클론",
+      "changeRatio": "+0.82%"
+    },
+    {
+      "name": "동아에스티",
+      "changeRatio": "+0.79%"
+    },
+    {
+      "name": "인콘",
+      "changeRatio": "+0.51%"
+    },
+    {
+      "name": "셀리드",
+      "changeRatio": "+0.34%"
+    },
+    {
+      "name": "큐리언트",
+      "changeRatio": "+0.15%"
+    },
+    {
+      "name": "신라젠",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "유한양행",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "유틸렉스",
+      "changeRatio": "-0.16%"
+    },
+    {
+      "name": "파멥신",
+      "changeRatio": "-0.51%"
+    },
+    {
+      "name": "한올바이오파마",
+      "changeRatio": "-1.22%"
+    },
+    {
+      "name": "제넥신",
+      "changeRatio": "-2.80%"
+    }
+  ],
+  "유전자 치료제/분석": [
+    {
+      "name": "고바이오랩",
+      "changeRatio": "+29.91%"
+    },
+    {
+      "name": "헬릭스미스",
+      "changeRatio": "+9.00%"
+    },
+    {
+      "name": "제노포커스",
+      "changeRatio": "+7.88%"
+    },
+    {
+      "name": "엑세스바이오",
+      "changeRatio": "+5.96%"
+    },
+    {
+      "name": "천랩",
+      "changeRatio": "+5.81%"
+    },
+    {
+      "name": "우정바이오",
+      "changeRatio": "+4.31%"
+    },
+    {
+      "name": "소마젠(Reg.S)",
+      "changeRatio": "+4.17%"
+    },
+    {
+      "name": "디엔에이링크",
+      "changeRatio": "+3.37%"
+    },
+    {
+      "name": "바이오니아",
+      "changeRatio": "+3.23%"
+    },
+    {
+      "name": "젠큐릭스",
+      "changeRatio": "+3.09%"
+    },
+    {
+      "name": "EDGC",
+      "changeRatio": "+3.06%"
+    },
+    {
+      "name": "제놀루션",
+      "changeRatio": "+2.93%"
+    },
+    {
+      "name": "코오롱생명과학",
+      "changeRatio": "+1.72%"
+    },
+    {
+      "name": "신테카바이오",
+      "changeRatio": "+1.67%"
+    },
+    {
+      "name": "마크로젠",
+      "changeRatio": "+1.43%"
+    },
+    {
+      "name": "티움바이오",
+      "changeRatio": "+1.23%"
+    },
+    {
+      "name": "씨젠",
+      "changeRatio": "+1.15%"
+    },
+    {
+      "name": "테라젠이텍스",
+      "changeRatio": "+0.97%"
+    },
+    {
+      "name": "랩지노믹스",
+      "changeRatio": "+0.85%"
+    },
+    {
+      "name": "셀레믹스",
+      "changeRatio": "+0.69%"
+    },
+    {
+      "name": "진원생명과학",
+      "changeRatio": "+0.56%"
+    },
+    {
+      "name": "파나진",
+      "changeRatio": "+0.45%"
+    },
+    {
+      "name": "아미코젠",
+      "changeRatio": "+0.14%"
+    },
+    {
+      "name": "신라젠",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "올리패스",
+      "changeRatio": "-0.28%"
+    },
+    {
+      "name": "지노믹트리",
+      "changeRatio": "-1.16%"
+    },
+    {
+      "name": "녹십자",
+      "changeRatio": "-1.80%"
+    },
+    {
+      "name": "제넥신",
+      "changeRatio": "-2.80%"
+    }
+  ],
+  "전력설비": [
+    {
+      "name": "대한전선",
+      "changeRatio": "+29.98%"
+    },
+    {
+      "name": "가온전선",
+      "changeRatio": "+7.66%"
+    },
+    {
+      "name": "비츠로테크",
+      "changeRatio": "+4.12%"
+    },
+    {
+      "name": "대원전선",
+      "changeRatio": "+2.99%"
+    },
+    {
+      "name": "LS ELECTRIC",
+      "changeRatio": "+1.84%"
+    },
+    {
+      "name": "피앤씨테크",
+      "changeRatio": "+1.75%"
+    },
+    {
+      "name": "이화전기",
+      "changeRatio": "+1.34%"
+    },
+    {
+      "name": "서전기전",
+      "changeRatio": "+1.13%"
+    },
+    {
+      "name": "두산중공업",
+      "changeRatio": "+1.02%"
+    },
+    {
+      "name": "광명전기",
+      "changeRatio": "+0.99%"
+    },
+    {
+      "name": "제룡산업",
+      "changeRatio": "+0.98%"
+    },
+    {
+      "name": "한전산업",
+      "changeRatio": "+0.92%"
+    },
+    {
+      "name": "한국전력",
+      "changeRatio": "+0.71%"
+    },
+    {
+      "name": "일진전기",
+      "changeRatio": "+0.63%"
+    },
+    {
+      "name": "금화피에스시",
+      "changeRatio": "+0.54%"
+    },
+    {
+      "name": "제룡전기",
+      "changeRatio": "+0.39%"
+    },
+    {
+      "name": "한전KPS",
+      "changeRatio": "+0.35%"
+    },
+    {
+      "name": "세명전기",
+      "changeRatio": "+0.13%"
+    },
+    {
+      "name": "LS",
+      "changeRatio": "-0.17%"
+    },
+    {
+      "name": "현대일렉트릭",
+      "changeRatio": "-0.28%"
+    },
+    {
+      "name": "효성중공업",
+      "changeRatio": "-0.32%"
+    },
+    {
+      "name": "선도전기",
+      "changeRatio": "-0.53%"
+    },
+    {
+      "name": "보성파워텍",
+      "changeRatio": "-0.95%"
+    }
+  ],
+  "클라우드 컴퓨팅": [
+    {
+      "name": "인프라웨어",
+      "changeRatio": "+30.00%"
+    },
+    {
+      "name": "영림원소프트랩",
+      "changeRatio": "+5.96%"
+    },
+    {
+      "name": "젬백스링크",
+      "changeRatio": "+5.06%"
+    },
+    {
+      "name": "SGA",
+      "changeRatio": "+3.94%"
+    },
+    {
+      "name": "코맥스",
+      "changeRatio": "+3.87%"
+    },
+    {
+      "name": "파이오링크",
+      "changeRatio": "+3.86%"
+    },
+    {
+      "name": "엔텔스",
+      "changeRatio": "+2.84%"
+    },
+    {
+      "name": "나무기술",
+      "changeRatio": "+2.22%"
+    },
+    {
+      "name": "모바일리더",
+      "changeRatio": "+0.96%"
+    },
+    {
+      "name": "효성ITX",
+      "changeRatio": "+0.90%"
+    },
+    {
+      "name": "포스코 ICT",
+      "changeRatio": "+0.74%"
+    },
+    {
+      "name": "솔트룩스",
+      "changeRatio": "+0.72%"
+    },
+    {
+      "name": "SGA솔루션즈",
+      "changeRatio": "+0.63%"
+    },
+    {
+      "name": "안랩",
+      "changeRatio": "+0.47%"
+    },
+    {
+      "name": "삼성에스디에스",
+      "changeRatio": "+0.28%"
+    },
+    {
+      "name": "케이아이엔엑스",
+      "changeRatio": "+0.27%"
+    },
+    {
+      "name": "DB",
+      "changeRatio": "+0.15%"
+    },
+    {
+      "name": "엑셈",
+      "changeRatio": "+0.12%"
+    },
+    {
+      "name": "KT",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "다우기술",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "퓨전",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "SK텔레콤",
+      "changeRatio": "-0.22%"
+    },
+    {
+      "name": "SK",
+      "changeRatio": "-0.23%"
+    },
+    {
+      "name": "가비아",
+      "changeRatio": "-0.38%"
+    },
+    {
+      "name": "더존비즈온",
+      "changeRatio": "-0.49%"
+    },
+    {
+      "name": "유엔젤",
+      "changeRatio": "-0.59%"
+    },
+    {
+      "name": "한일네트웍스",
+      "changeRatio": "-0.74%"
+    },
+    {
+      "name": "케이사인",
+      "changeRatio": "-1.57%"
+    },
+    {
+      "name": "한글과컴퓨터",
+      "changeRatio": "-1.67%"
+    },
+    {
+      "name": "휴네시온",
+      "changeRatio": "-2.80%"
+    }
+  ],
+  "국내 상장 중국기업": [
+    {
+      "name": "컬러레이",
+      "changeRatio": "+7.87%"
+    },
+    {
+      "name": "골든센츄리",
+      "changeRatio": "+5.00%"
+    },
+    {
+      "name": "로스웰",
+      "changeRatio": "+4.09%"
+    },
+    {
+      "name": "윙입푸드",
+      "changeRatio": "+3.77%"
+    },
+    {
+      "name": "씨케이에이치",
+      "changeRatio": "+3.54%"
+    },
+    {
+      "name": "헝셩그룹",
+      "changeRatio": "+2.47%"
+    },
+    {
+      "name": "오가닉티코스메틱",
+      "changeRatio": "+2.30%"
+    },
+    {
+      "name": "이스트아시아홀딩스",
+      "changeRatio": "+1.60%"
+    },
+    {
+      "name": "글로벌에스엠",
+      "changeRatio": "+0.75%"
+    },
+    {
+      "name": "크리스탈신소재",
+      "changeRatio": "+0.25%"
+    },
+    {
+      "name": "GRT",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "에스앤씨엔진그룹",
+      "changeRatio": "0.00%"
+    }
+  ],
+  "K-뉴딜지수(인터넷)": [
+    {
+      "name": "유비쿼스홀딩스",
+      "changeRatio": "+8.83%"
+    },
+    {
+      "name": "서진시스템",
+      "changeRatio": "+7.12%"
+    },
+    {
+      "name": "케이엠더블유",
+      "changeRatio": "+5.15%"
+    },
+    {
+      "name": "아프리카TV",
+      "changeRatio": "+1.37%"
+    },
+    {
+      "name": "안랩",
+      "changeRatio": "+0.47%"
+    },
+    {
+      "name": "NAVER",
+      "changeRatio": "+0.18%"
+    },
+    {
+      "name": "NHN한국사이버결제",
+      "changeRatio": "+0.15%"
+    },
+    {
+      "name": "카카오",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "KG이니시스",
+      "changeRatio": "-0.25%"
+    },
+    {
+      "name": "더존비즈온",
+      "changeRatio": "-0.49%"
+    }
+  ],
+  "MVNO(가상이동통신망사업자)": [
+    {
+      "name": "세종텔레콤",
+      "changeRatio": "+18.16%"
+    },
+    {
+      "name": "CJ ENM",
+      "changeRatio": "+0.97%"
+    },
+    {
+      "name": "인스코비",
+      "changeRatio": "+0.62%"
+    },
+    {
+      "name": "대성홀딩스",
+      "changeRatio": "+0.21%"
+    },
+    {
+      "name": "LG헬로비전",
+      "changeRatio": "0.00%"
+    },
+    {
+      "name": "에스원",
+      "changeRatio": "-0.36%"
+    },
+    {
+      "name": "한국정보통신",
+      "changeRatio": "-0.45%"
+    },
+    {
+      "name": "아이즈비전",
+      "changeRatio": "-0.92%"
+    }
+  ]
+}
