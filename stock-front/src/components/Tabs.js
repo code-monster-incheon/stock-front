@@ -1,40 +1,16 @@
-import { useEffect } from 'react';
-import { Card, Statistic, Row, Col, Menu, Dropdown, Button } from 'antd';
+import { useEffect, useState } from 'react';
+import { Card, Button } from 'antd';
 import { ArrowUpOutlined, ArrowDownOutlined } from '@ant-design/icons';
-
-function Tabs({ dataList, title }) {
+import { useDispatch, useSelector } from 'react-redux';
+function Tabs({ title, dataList }) {
+  const { isLoading } = useSelector((state) => state.data);
   return (
     <Card
       title={title}
       bordered={false}
       style={{ width: 300, border: '1px solid black' }}
     >
-      {dataList.map((s, idx) => (
-        <>
-          <div className="site-statistic-demo-card">
-            <Card>
-              <Statistic
-                title={s.name}
-                value={s.changeRatio}
-                precision={3}
-                valueStyle={
-                  s.changeRatio.charAt(0) == '+'
-                    ? { color: 'blue' }
-                    : { color: '#cf1322' }
-                }
-                prefix={
-                  s.changeRatio.charAt(0) == '+' ? (
-                    <ArrowUpOutlined />
-                  ) : (
-                    <ArrowDownOutlined />
-                  )
-                }
-                suffix="%"
-              />
-            </Card>
-          </div>
-        </>
-      ))}
+      {isLoading && dataList.map((s) => <p>{s.name}</p>)}
     </Card>
   );
 }

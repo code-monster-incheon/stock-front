@@ -1,6 +1,6 @@
 import { Spin, Card, Statistic, Row, Col, Menu, Dropdown, Button } from 'antd';
-import { useEffect, useState } from 'react';
 import Tabs from './Tabs';
+import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { SEARCH_DATA_REQUEST } from '../modules/data';
 function Bars({ data }) {
@@ -80,11 +80,7 @@ function Bars({ data }) {
             </Col>
 
             <Col span={8}>
-              <Tabs
-                dataList={resultDatas['갤럭시 부품주']}
-                title={'갤럭시 부품주'}
-                val={3}
-              />
+              <Tabs dataList={resultDatas['편의점']} title={'편의점'} val={3} />
             </Col>
           </>
         )}
