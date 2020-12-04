@@ -12,6 +12,7 @@ import {
 import { ArrowUpOutlined, ArrowDownOutlined } from '@ant-design/icons';
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
+
 import { SEARCH_DATA_REQUEST } from '../modules/data';
 function Bars({ data }) {
   const loadingImage = {
@@ -27,37 +28,6 @@ function Bars({ data }) {
     dispatch({ type: SEARCH_DATA_REQUEST });
   }, [isLoading]);
 
-  const menu = (
-    <Menu>
-      <Menu.Item>
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="http://www.alipay.com/"
-        >
-          제4이동통신
-        </a>
-      </Menu.Item>
-      <Menu.Item>
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="http://www.taobao.com/"
-        >
-          코로나19(음압병실/음압구급차)
-        </a>
-      </Menu.Item>
-      <Menu.Item>
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="http://www.tmall.com/"
-        >
-          갤럭시 부품주
-        </a>
-      </Menu.Item>
-    </Menu>
-  );
   return (
     <>
       {!isLoading ? (
@@ -80,7 +50,7 @@ function Bars({ data }) {
           }}
           dataSource={resultDatas.stockParamList}
           renderItem={(item) => (
-            <List.Item>
+            <List.Item style={{ height: '500px', overflow: 'scroll' }}>
               <Card title={item.title}>
                 <List
                   size="small"
