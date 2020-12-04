@@ -50,9 +50,10 @@ function Bars({ data }) {
           }}
           dataSource={resultDatas.stockParamList}
           renderItem={(item) => (
-            <List.Item style={{ height: '500px', overflow: 'scroll' }}>
+            <List.Item>
               <Card title={item.title}>
                 <List
+                  style={{ height: '500px', overflow: 'scroll' }}
                   size="small"
                   bordered
                   dataSource={item.stockList}
