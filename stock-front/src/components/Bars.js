@@ -48,6 +48,7 @@ function Bars({ data }) {
             xl: 6,
             xxl: 3,
           }}
+          style={{ marginTop: '80px' }}
           dataSource={resultDatas.stockParamList}
           renderItem={(item) => (
             <List.Item>
