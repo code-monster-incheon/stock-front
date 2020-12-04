@@ -12,7 +12,6 @@ import {
 import { ArrowUpOutlined, ArrowDownOutlined } from '@ant-design/icons';
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-
 import { SEARCH_DATA_REQUEST } from '../modules/data';
 function Bars({ data }) {
   const loadingImage = {
@@ -48,11 +47,16 @@ function Bars({ data }) {
             xl: 6,
             xxl: 3,
           }}
-          style={{ marginTop: '80px' }}
+          style={{ marginTop: '50px' }}
           dataSource={resultDatas.stockParamList}
           renderItem={(item) => (
             <List.Item>
-              <Card title={item.title}>
+              <Card
+                title={item.title}
+                style={{
+                  borderRadius: '10px',
+                }}
+              >
                 <List
                   style={{ height: '500px', overflow: 'scroll' }}
                   size="small"
