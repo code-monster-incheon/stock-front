@@ -1,5 +1,15 @@
-import { Spin, Card, Statistic, Row, Col, Menu, Dropdown, Button } from 'antd';
-import Tabs from './Tabs';
+import {
+  Spin,
+  Card,
+  Statistic,
+  Row,
+  Col,
+  Menu,
+  Dropdown,
+  Button,
+  List,
+} from 'antd';
+import { ArrowUpOutlined, ArrowDownOutlined } from '@ant-design/icons';
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { SEARCH_DATA_REQUEST } from '../modules/data';
@@ -50,41 +60,59 @@ function Bars({ data }) {
   );
   return (
     <>
-      {' '}
-      <Dropdown overlay={menu} placement="bottomCenter">
-        <Button>예시로 넣어봤어용 </Button>
-      </Dropdown>
-      <Row gutter={24}>
-        {!isLoading ? (
-          <div style={loadingImage}>
-            <Spin />
-            <br></br>
-            <p>로딩 중입니다.....</p>
-          </div>
-        ) : (
-          <>
-            <Col span={8}>
-              <Tabs
-                dataList={resultDatas['제4이동통신']}
-                title={'제4이동통신'}
-                val={3}
-              />
-            </Col>
-
-            <Col span={8}>
-              <Tabs
-                dataList={resultDatas['코로나19(음압병실/음압구급차)']}
-                title={'코로나19(음압병실/음압구급차)'}
-                val={3}
-              />
-            </Col>
-
-            <Col span={8}>
-              <Tabs dataList={resultDatas['편의점']} title={'편의점'} val={3} />
-            </Col>
-          </>
-        )}
-      </Row>
+      {!isLoading ? (
+        <div style={loadingImage}>
+          <Spin />
+          <br></br>
+          <p>로딩 중입니다.....</p>
+        </div>
+      ) : null}
+      {isLoading && (
+        <List
+          grid={{
+            gutter: 16,
+            xs: 1,
+            sm: 2,
+            md: 4,
+            lg: 4,
+            xl: 6,
+            xxl: 3,
+          }}
+          dataSource={resultDatas.stockParamList}
+          renderItem={(item) => (
+            <List.Item>
+              <Card title={item.title}>
+                <List
+                  size="small"
+                  bordered
+                  dataSource={item.stockList}
+                  renderItem={(innerItem) => (
+                    <List.Item>
+                      <Statistic
+                        title={innerItem.name}
+                        value={innerItem.changeRatio}
+                        precision={2}
+                        valueStyle={
+                          innerItem.changeRatio.charAt(0) == '-'
+                            ? { color: '#3f8600' }
+                            : { color: '#cf1322' }
+                        }
+                        prefix={
+                          innerItem.changeRatio.charAt(0) == '-' ? (
+                            <ArrowDownOutlined />
+                          ) : (
+                            <ArrowUpOutlined />
+                          )
+                        }
+                      />
+                    </List.Item>
+                  )}
+                />
+              </Card>
+            </List.Item>
+          )}
+        />
+      )}
     </>
   );
 }
