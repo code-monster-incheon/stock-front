@@ -41,47 +41,51 @@ function Bars({ data }) {
           grid={{
             gutter: 16,
             xs: 1,
-            sm: 2,
-            md: 4,
-            lg: 4,
-            xl: 6,
+            sm: 1,
+            md: 2,
+            lg: 2,
+            xl: 3,
             xxl: 3,
           }}
-          style={{ marginTop: '50px' }}
-          dataSource={resultDatas.stockParamList}
+          style={{ 
+            marginTop: '50px',
+         }}
+          dataSource={resultDatas}
           renderItem={(item) => (
             <List.Item>
               <Card
-                title={item.title}
+                title={item.name}
+                extra={item.dailyPriceChangeRatio}
                 style={{
                   borderRadius: '10px',
                 }}
               >
-                <List
-                  style={{ height: '500px', overflow: 'scroll' }}
-                  size="small"
-                  bordered
-                  dataSource={item.stockList}
-                  renderItem={(innerItem) => (
-                    <List.Item>
-                      <Statistic
-                        title={innerItem.name}
-                        value={innerItem.changeRatio}
-                        precision={2}
-                        valueStyle={
-                          innerItem.changeRatio.charAt(0) == '-'
-                            ? { color: '#3f8600' }
-                            : { color: '#cf1322' }
-                        }
-                        prefix={
-                          innerItem.changeRatio.charAt(0) == '-' ? (
-                            <ArrowDownOutlined />
-                          ) : (
-                            <ArrowUpOutlined />
-                          )
-                        }
-                      />
-                    </List.Item>
+
+              <List
+                style={{ height: '500px', overflow: 'scroll' }}
+                size="small"
+                bordered
+                dataSource={item.stocks}
+                renderItem={(innerItem) => (
+                  <List.Item>
+                    <Statistic
+                      title={innerItem.name}
+                      value={innerItem.dailyPriceChangeRatio}
+                      precision={2}
+                      valueStyle={
+                        innerItem.dailyPriceChangeRatio.charAt(0) == '-'
+                          ? { color: '#0F52B9' }
+                          : { color: '#FF2300' }
+                      }
+                      // prefix={
+                      //   innerItem.dailyPriceChangeRatio.charAt(0) == '-' ? (
+                      //     <ArrowDownOutlined />
+                      //   ) : (
+                      //     <ArrowUpOutlined />
+                      //   )
+                      // }
+                    />
+                  </List.Item>
                   )}
                 />
               </Card>
