@@ -32,8 +32,6 @@ function Bars({ data }) {
       {!isLoading ? (
         <div style={loadingImage}>
           <Spin />
-          <br></br>
-          <p>로딩 중입니다.....</p>
         </div>
       ) : null}
       {isLoading && (
@@ -77,13 +75,7 @@ function Bars({ data }) {
                           ? { color: '#0F52B9' }
                           : { color: '#FF2300' }
                       }
-                      // prefix={
-                      //   innerItem.dailyPriceChangeRatio.charAt(0) == '-' ? (
-                      //     <ArrowDownOutlined />
-                      //   ) : (
-                      //     <ArrowUpOutlined />
-                      //   )
-                      // }
+              
                     />
                   </List.Item>
                   )}
