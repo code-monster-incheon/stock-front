@@ -9,7 +9,7 @@ function App() {
         className="site-page-header"
         onBack={() => null}
         title="주 한 보"
-        subTitle="주식을 한눈에 보자 - (김인제, 장동혁, 윤상현) 첫 토이 프로젝트"
+        subTitle="주식을 한눈에 보자"
         backIcon={false}
       />
 
