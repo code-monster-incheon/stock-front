@@ -33,7 +33,7 @@
       "react-app/jest"
     ]
   },
-  "proxy": "http://themaju.herokuapp.com",
+  "proxy": "https://themaju.herokuapp.com",
   "browserslist": {
     "production": [
       ">0.2%",
