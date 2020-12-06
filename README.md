@@ -6,3 +6,4 @@
 # 배포 
  - 헤로쿠
  - 첫 로딩이 길다 (10s)
+ - https://stocksboardinc.herokuapp.com/
